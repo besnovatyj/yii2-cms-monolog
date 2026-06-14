@@ -13,7 +13,8 @@
   "minimum-stability": "stable",
   "extra": {
     "moduleClass": "Besnovatyj\\Monolog\\Module",
-    "moduleId": "Monolog"
+    "moduleId": "Monolog",
+    "bescms": { "kind": "module" }
   },
   "keywords": [
     "yii2",
