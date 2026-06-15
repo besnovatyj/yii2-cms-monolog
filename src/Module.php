@@ -7,8 +7,8 @@
 namespace Besnovatyj\Monolog;
 
 use common\components\module\CmsModule;
-use modules\modmanNew\contract\DeclaresModule;
-use modules\modmanNew\contract\ProvidesAdminMenu;
+use modules\modman\contract\DeclaresModule;
+use modules\modman\contract\ProvidesAdminMenu;
 
 class Module extends CmsModule implements
     DeclaresModule, ProvidesAdminMenu
