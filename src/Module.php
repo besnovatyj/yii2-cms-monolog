@@ -6,7 +6,7 @@
 
 namespace Besnovatyj\Monolog;
 
-use common\components\module\CmsModule;
+use Besnovatyj\Kernel\module\CmsModule;
 use Besnovatyj\Contracts\module\DeclaresModule;
 use Besnovatyj\Contracts\module\ProvidesAdminMenu;
 
