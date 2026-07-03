@@ -20,7 +20,7 @@ use yii\web\Response;
  */
 class MonologLogController extends \yii\web\Controller
 {
-    use \common\components\controller\ControllerTrait;
+    use \Besnovatyj\Kernel\controller\ControllerTrait;
     private MonologLogManageService $service;
 
     public function __construct($id, $module, MonologLogManageService $service, $config = [])
