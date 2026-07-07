@@ -1,7 +1,6 @@
 {
   "name": "besnovatyj/yii2-cms-monolog",
   "description": "Модуль управления логами Monolog для Yii2 CMS",
-  "version": "1.0.0",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
