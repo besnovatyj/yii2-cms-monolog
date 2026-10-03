@@ -36,7 +36,7 @@
   },
   "require": {
     "besnovatyj/yii2-cms-kernel": "^1.0",
-    "besnovatyj/yii2-cms-contracts": "^1.0",
+    "besnovatyj/yii2-cms-contracts": "^2.0",
     "php": ">=8.4",
     "ext-zip": "*",
     "yiisoft/yii2": "~2.0.0",
